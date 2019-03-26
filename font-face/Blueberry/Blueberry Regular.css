@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+@font-face {
+  font-family: "Blueberry Regular";
+  src: url("Blueberry Regular.woff2") format("woff2"),
+       url("Blueberry Regular.woff") format("woff"),
+       url("Blueberry Regular.ttf") format("truetype"),
+       url("Blueberry Regular.eot") format("embedded-opentype"),
+       url("Blueberry Regular.svg") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}

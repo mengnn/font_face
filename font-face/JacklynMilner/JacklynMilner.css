@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+@font-face {
+  font-family: "JacklynMilner";
+  src: url("JacklynMilner.woff2") format("woff2"),
+       url("JacklynMilner.woff") format("woff"),
+       url("JacklynMilner.ttf") format("truetype"),
+       url("JacklynMilner.eot") format("embedded-opentype"),
+       url("JacklynMilner.svg") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}

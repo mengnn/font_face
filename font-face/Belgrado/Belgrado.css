@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+@font-face {
+  font-family: "Belgrado";
+  src: url("Belgrado.woff2") format("woff2"),
+       url("Belgrado.woff") format("woff"),
+       url("Belgrado.ttf") format("truetype"),
+       url("Belgrado.eot") format("embedded-opentype"),
+       url("Belgrado.svg") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}

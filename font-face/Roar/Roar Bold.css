@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+@font-face {
+  font-family: "Roar Bold";
+  src: url("Roar Bold.woff2") format("woff2"),
+       url("Roar Bold.woff") format("woff"),
+       url("Roar Bold.ttf") format("truetype"),
+       url("Roar Bold.eot") format("embedded-opentype"),
+       url("Roar Bold.svg") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}

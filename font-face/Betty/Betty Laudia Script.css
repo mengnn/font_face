@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+@font-face {
+  font-family: "Betty Laudia Script";
+  src: url("Betty Laudia Script.woff2") format("woff2"),
+       url("Betty Laudia Script.woff") format("woff"),
+       url("Betty Laudia Script.ttf") format("truetype"),
+       url("Betty Laudia Script.eot") format("embedded-opentype"),
+       url("Betty Laudia Script.svg") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}

@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+@font-face {
+  font-family: "Juice it up Italic";
+  src: url("Juice it up Italic.woff2") format("woff2"),
+       url("Juice it up Italic.woff") format("woff"),
+       url("Juice it up Italic.ttf") format("truetype"),
+       url("Juice it up Italic.eot") format("embedded-opentype"),
+       url("Juice it up Italic.svg") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
